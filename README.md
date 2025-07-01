@@ -17,7 +17,7 @@ A user-friendly GUI tool for accessing the Minimax Speech-02-HD Text-to-Speech A
 
 ## Installation
 
-1. Make sure you have Python 3 installed. 2.
+1. Make sure you have Python 3 installed. 
 2. Clone or download the repository.
 3. Install the required dependencies:
     ```bash
@@ -26,11 +26,11 @@ A user-friendly GUI tool for accessing the Minimax Speech-02-HD Text-to-Speech A
 
 ## How to Use
 
-1. Run the Python script: `python "Minimax Speech-02-HD v0.8.py" `. 2.
-2. Fill in your Replicate API key in the "API Key" input box. 3.
+1. Run the Python script: `python "Minimax Speech-02-HD v0.8.py" `. 
+2. Fill in your Replicate API key in the "API Key" input box. 
 3. Enter the text you want to convert in the text box.
 4. Adjust the parameters on the left as needed.
-5. Click the "Generate" button. 6.
+5. Click the "Generate" button. 
 6. After successful generation, you can click "Play" or "Save".
 
 ## Notes

@@ -105,5 +105,9 @@
         "捷克语": "Czech",
         "芬兰语": "Finnish",
         "印地语": "Hindi"
-    }
+    },
+    "param_voice_id_custom": "自定义声音 ID：",
+    "custom_voice_id_placeholder": "在此处输入自定义语音 ID",
+    "error_custom_voice_id_empty": "选择手动输入时，自定义语音 ID 不能为空！",
+    "voice_custom_option": "[ 手动输入... ]"
 }

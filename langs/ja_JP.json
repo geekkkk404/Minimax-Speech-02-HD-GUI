@@ -105,5 +105,9 @@
         "チェコ語": "Czech",
         "フィンランド語": "Finnish",
         "ヒンディー語": "Hindi"
-    }
+    },
+    "param_voice_id_custom": "Custom ID:",
+    "custom_voice_id_placeholder": "Enter custom voice ID here",
+    "error_custom_voice_id_empty": "Custom Voice ID cannot be empty when manual input is selected!",
+    "voice_custom_option": "[ Manual Input... ]"
 }
