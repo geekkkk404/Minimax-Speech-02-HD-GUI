@@ -1,0 +1,21 @@
+# Python 自动生成的文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# 此项目生成的临时文件
+/temp_audio/
+
+# 不上传的特定文件
+i18n_helper.py
+
+# 不上传的历史版本文件
+Minimax Speech-02-HD v0.1.py
+Minimax Speech-02-HD v0.2.py
+Minimax Speech-02-HD v0.3.py
+Minimax Speech-02-HD v0.4.py
+Minimax Speech-02-HD v0.5.py
+Minimax Speech-02-HD v0.6.py
+Minimax Speech-02-HD v0.7.py
